@@ -10,7 +10,7 @@
 [Click Here](../../../springboard)
 
 ## Hacker Rank
-[Click Here](../../../hackerrank)
+[Click Here](https://github.com/rshaghoulian/HackerRank_solutions)
 
 ## Techgig
 [Click Here](../../../techgig)
